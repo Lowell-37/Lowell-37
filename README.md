@@ -1,5 +1,5 @@
-![暗色](https://raw.githubusercontent.com/你的用户名/你的仓库名/output/github-contribution-grid-snake-dark.svg)
-![亮色](https://raw.githubusercontent.com/你的用户名/你的仓库名/output/github-contribution-grid-snake.svg)
+![暗色](https://raw.githubusercontent.com/Lowell-37/Lowell-37/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/Lowell-37/Lowell-37/output/github-contribution-grid-snake.svg)
 
 <!--
 **Lowell-37/Lowell-37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
