@@ -2,7 +2,7 @@
 
 ![Lowell's GitHub stars](https://github-readme-stats.vercel.app/api?username=Lowell-37&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
-
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400" />
 ![暗色](https://raw.githubusercontent.com/Lowell-37/Lowell-37/output/github-contribution-grid-snake-dark.svg)
 
 <!--
