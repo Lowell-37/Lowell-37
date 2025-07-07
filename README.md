@@ -4,10 +4,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
 ![暗色](https://raw.githubusercontent.com/Lowell-37/Lowell-37/output/github-contribution-grid-snake-dark.svg)
-![亮色](https://raw.githubusercontent.com/Lowell-37/Lowell-37/output/github-contribution-grid-snake.svg)
+
 <!--
 **Lowell-37/Lowell-37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![亮色](https://raw.githubusercontent.com/Lowell-37/Lowell-37/output/github-contribution-grid-snake.svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
