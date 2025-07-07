@@ -1,4 +1,4 @@
-Hey There, Lowell Here!👋
+# Hey There, Lowell Here!👋
 
 ![Lowell's GitHub stars](https://github-readme-stats.vercel.app/api?username=Lowell-37&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
